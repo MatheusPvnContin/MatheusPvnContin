@@ -84,8 +84,9 @@ Ações de extensão do curso de Sistemas de Informação, em equipe de três es
 **Bacharelado em Sistemas de Informação**
 [IFSP - Campus Votuporanga](https://vot.ifsp.edu.br)
 Cursando | 4º semestre
-**Técnico em Desenvolvimento de Sistemas**
-[ETEC - CFernandópolis](https://etecfernandopolis.com.br/site/inicio/)
+
+**Técnico em Informática**
+[ETEC - Fernandópolis](https://etecfernandopolis.com.br/site/inicio/)
 
 ---
 
