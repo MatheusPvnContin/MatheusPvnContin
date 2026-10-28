@@ -86,7 +86,7 @@ Ações de extensão do curso de Sistemas de Informação, em equipe de três es
 Cursando | 4º semestre
 
 **Técnico em Informática**
-[ETEC - Fernandópolis](https://etecfernandopolis.com.br/site/inicio/)
+[ETEC - Fernandópolis](https://etecfernandopolis.com.br/site/inicio/) | Formado 2023 - 2024
 
 ---
 
