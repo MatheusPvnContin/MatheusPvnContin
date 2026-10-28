@@ -92,7 +92,7 @@ Cursando | 4º semestre
 
 ## 📫 Contato
 
-- 💼 [LinkedIn]([https://linkedin.com/in/SEU-LINKEDIN](https://www.linkedin.com/in/matheus-contin-220b43355/)) 
+- 💼 [LinkedIn](https://www.linkedin.com/in/matheus-contin-220b43355/)
 - 📧 matheus.pvm.contin@gmail.com 
 - 📍 Fernandópolis - SP, Brasil
 
