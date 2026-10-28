@@ -12,6 +12,7 @@ Aprendendo na prática e compartilhando o que aprendo: desenvolvo sistemas, site
 ## 👨‍💻 Sobre mim
 
 Sou estudante do 4º semestre de **Sistemas de Informação no IFSP Votuporanga**.
+
 Tenho também formação de técnico em informática pela **ETEC de Fernandópolis**.
 
 Tenho interesse em desenvolvimento de sistemas em **Java** com banco de dados **PostgreSQL**, em desenvolvimento **web** (HTML, CSS e Bootstrap) e em aplicações práticas de inteligência artificial.
