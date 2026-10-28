@@ -98,10 +98,5 @@ Cursando | 4º semestre
 
 ---
 
-## 📈 Estatísticas do GitHub <!-- OPCIONAL: apague esta seção se o cartão não carregar ou se ainda houver poucos repositórios -->
-
-[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusPvnContin&layout=compact&langs_count=6&theme=tokyonight&hide_border=true)](https://github.com/MatheusPvnContin)
-
----
 
 **Sempre aprendendo e compartilhando conhecimento.** 🚀
