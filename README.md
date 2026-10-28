@@ -4,7 +4,7 @@
 
 Aprendendo na prática e compartilhando o que aprendo: desenvolvo sistemas, sites e materiais para ensinar tecnologia a outros estudantes.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/SEU-LINKEDIN](https://www.linkedin.com/in/matheus-contin-220b43355/)) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-contin-220b43355/)
 
 
 ---
